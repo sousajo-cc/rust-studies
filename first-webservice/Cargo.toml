@@ -1,0 +1,13 @@
+[package]
+name = "first-webservice"
+version = "0.1.0"
+authors = ["sousajf1"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+iron = "0.6.1"
+mime = "0.2.6"
+router = "0.6.0"
+urlencoded = "0.6.0"
